@@ -11,6 +11,6 @@ Stuart=Client(
 
 @Stuart.on_message(filters.command("start"))
 async def start_message(bot, message):
-    await message.reply_text("hi")
+    await message.reply_text("Hey bro sugamano?")
 
 Stuart.run()
