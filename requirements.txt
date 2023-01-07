@@ -1,2 +1,6 @@
 pyrogram
 tgcrypto
+PIL
+io
+requests
+os
